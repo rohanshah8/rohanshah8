@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohanshah8
-- 👀 I’m interested in Computer Science, Artificial Intelligence , Machine learnig, Programming.
+- 👀 I’m interested in Computer Science ,Maths , Artificial Intelligence , Machine learnig, Programming.
 - 🌱 I’m currently learning Machine learning with probability perspective.
 - 📫 How to reach me [Gmail](rohanshah953@gmail.com) [Linkedin](https://www.linkedin.com/in/rohan-shah-50221612a/) 
 
